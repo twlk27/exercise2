@@ -1,5 +1,7 @@
 # Readme
 
+[![Build Status](https://travis-ci.org/twlk27/exercise2.svg?branch=master)](https://travis-ci.org/twlk27/exercise2)
+
 ### 步骤
 
 * 全局安装 mocha
