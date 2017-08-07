@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/twlk27/exercise2.svg?branch=master)](https://travis-ci.org/twlk27/exercise2)
 
+[![Coverage Status](https://coveralls.io/repos/github/twlk27/exercise2/badge.svg?branch=master)](https://coveralls.io/github/twlk27/exercise2?branch=master)
+
 ### 步骤
 
 * 全局安装 mocha
